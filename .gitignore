@@ -29,3 +29,15 @@ _sass/@primer/css/**/*.md
 
 # action
 action.changelog.md
+test/avatar.md
+test/codes.md
+test/emoji.md
+test/fonts.md
+test/gist.md
+test/markdown.md
+test/mathjax.md
+test/mentions.md
+test/mermaid.md
+test/README.md
+test/toasts.md
+test/utilities.md
